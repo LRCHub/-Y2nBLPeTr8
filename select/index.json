@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "SOUL LOVE",
+  "base_artist": "GLAY",
+  "createdAt": "2026-02-18T13:21:02.002473Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Soul Love - Live",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/01_Soul_Love_-_Live_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Soul Love",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/02_Soul_Love_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Soul Love",
+      "artist": "Beady Eye",
+      "has_synced": false,
+      "path": "select/03_Soul_Love_Beady_Eye.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Soul Love",
+      "artist": "Beady Eye",
+      "has_synced": true,
+      "path": "select/04_Soul_Love_Beady_Eye.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Soul Love",
+      "artist": "Daryl Hall & John Oates",
+      "has_synced": false,
+      "path": "select/05_Soul_Love_Daryl_Hall_&_John_Oates.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Soul Love - Live; 2017 Remaster",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/06_Soul_Love_-_Live;_2017_Remaster_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Soul Love - 2002 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/07_Soul_Love_-_2002_Remastered_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Soul Love (2012 Remastered Version)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/08_Soul_Love_(2012_Remastered_Version)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Soul Love",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_Soul_Love_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Satin Soul - Love Unlimited Orchestra",
+      "artist": "Barry White",
+      "has_synced": false,
+      "path": "select/10_Satin_Soul_-_Love_Unlimited_Orchestra_Barry_White.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Soul Love (2012 Remaster)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/11_Soul_Love_(2012_Remaster)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Soul Love",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/12_Soul_Love_David_Bowie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SOUL LOVE",
+      "artist": "GLAY",
+      "has_synced": false,
+      "path": "select/pl_01_SOUL_LOVE_GLAY.txt"
+    }
+  ]
+}
